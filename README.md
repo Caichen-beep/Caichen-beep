@@ -173,4 +173,5 @@ if __name__ == '__main__':
     root.wm_attributes("-topmost", 1)
     game = Game(root)
     game.mainloop()
+    实现单击鼠标左键暂停功能
     
